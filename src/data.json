@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "item1",
+      "image": "/images/image1.jpg",
+      "title": "iPhone 13 mini – 5G (PRODUCT)RED",
+      "description": "iPhone 13 mini smartphone tilbyder kraftfulde funktioner i en lille formfaktor i aluminium og glas. Få glæde af A15 Bionic processoren med 5G dataforbindelsessupport, og tag professionelle billeder og videoer med 12 MP dual kameraet.",
+      "availableSizes": ["128", "256", "512"],
+      "price": 6199
+    },
+    {
+      "_id": "item2",
+      "image": "/images/image2.jpg",
+      "title": "B&O Beoplay H95 wireless trådløse",
+      "description": "Lev dig ind i musikken med disse støjblokerende B&O Beoplay H95 wireless trådløse rundt-om-ørene høretelefoner. Enheden har Adaptive ANC, som kan blokere baggrundstøj i det omfang, som du ønsker.",
+      "availableSizes": ["one"],
+      "price": 6000
+    },
+    {
+      "_id": "item3",
+      "image": "/images/image3.jpg",
+      "title": "Apple Watch SE 44 mm LTE Silver",
+      "description": "Med dette Apple Watch SE er du klar til det næste eventyr, der venter dig. Hold kontakten med andre, hold styr på dit fitnessliv, se hvor din tur er på vej hen, og mål din puls.",
+      "availableSizes": ["one"],
+      "price": 2999
+    },
+    {
+      "_id": "item4",
+      "image": "/images/image4.jpg",
+      "title": "Beats Studio3 trådløs around-ear",
+      "description": "Beats Studio trådløse hovedtelefoner, der er let at oprette forbindelse til, giver dig skønheden ved krystalklar, trådløs musik i selv larmende miljøer.",
+      "availableSizes": ["one"],
+      "price": 2990
+    },
+    {
+      "_id": "item5",
+      "image": "/images/image5.jpg",
+      "title": "iPad mini (2021) 256 GB 5G",
+      "description": "iPad mini tilbyder fremragende præstation i en kompakt, let størrelse. Kant-til-kant Liquid Retina-skærmen giver dig skarpt visuelt indhold og True Tone-teknologi, som sikrer præcis farvegengivelse under alle lysforhold.",
+      "availableSizes": ["64", "256"],
+      "price": 6899
+    },
+    {
+      "_id": "item6",
+      "image": "/images/image6.jpg",
+      "title": "Fossil Gen 6 smartwatch",
+      "description": "Dette Fossil Gen 6 smartwatch er et stilfuldt og smart stykke tilbehør med Google Assistant, forbedret processor og mulighed for at spore aktivitet og sundhed. Derudover giver det også mulighed for opkald, takket være indbygget mikrofon og højtaler.",
+      "availableSizes": ["one"],
+      "price": 2595
+    }
+  ]
+}
